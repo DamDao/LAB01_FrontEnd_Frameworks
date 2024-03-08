@@ -1,0 +1,39 @@
+.poly-cart {
+    margin-top: 5px;
+}
+
+.poly-cart ul {
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+    font-variant: small-caps;
+}
+
+.poly-cart .panel-heading strong {
+    font-variant: small-caps;
+    font-size: larger;
+    text-shadow: 0 0 2px darkgrey;
+}
+
+.pr {
+    margin-top: 50px;
+    border: 1px solid #CCC;
+}
+.lagu{
+    padding-left: 200px;
+}
+.card {
+    margin-top: 38px;
+}
+
+.box_cart {
+    border: 1px solid #CCC;
+    padding: 15px;
+    display: flex;
+    border-radius: 5px;
+    margin-top: 38px;
+}
+
+.card-columns {
+    text-align: center;
+}
